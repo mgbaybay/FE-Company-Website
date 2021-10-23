@@ -26,4 +26,4 @@
 ## Versions
 | Version | Creators | Date | Remark/s |
 |-----|---------|---------| ---------|
-| V1 | MG | July 30 2021 | original version|
+| V1 | MG and Jedd | July 30 2021 | original version|
