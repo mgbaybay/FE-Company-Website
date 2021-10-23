@@ -26,5 +26,4 @@
 ## Versions
 | Version | Creators | Date | Remark/s |
 |-----|---------|---------| ---------|
-| V1 | MG and Jedd(JedoyX)  | July 30 2021 | original version|
-| V2 | MG | September 04 2021 | modified responsiveness, projects, reviews, and contact us |
+| V1 | MG | July 30 2021 | original version|
